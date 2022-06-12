@@ -1,4 +1,4 @@
-- 👋 Assalamu Alaikum reader, I’m Muhammad Fahim Asim
+- 👋 Assalamu Alaikum reader, I am Muhammad Fahim Asim
 - 👀 I’m a Blockchain developer
 - 🌱 I’m currently working on Flow Blockchain
 - 💞️ I’m ambisious to contribute my part in the deveopment of planet
